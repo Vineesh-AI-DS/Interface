@@ -134,10 +134,13 @@ namespace exp9
         }
     }
 }
+
 ```
 
-## Output:
 
+## Output:
+![csh1](https://github.com/Vineesh-AI-DS/Interface/assets/93427254/4ff3d79c-07f3-4117-8e3d-b3b81238bb6d)
+![csh2](https://github.com/Vineesh-AI-DS/Interface/assets/93427254/1e458c4a-7872-4104-9468-9bdc364a577b)
 
 ## Result:
 Thus, a C# program using interface concept is written.
